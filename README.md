@@ -2,12 +2,15 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 
 ## Exercism
 [Golang](https://github.com/Prounckk/learnings/tree/main/exercism/go/) 
-[Rust](https://github.com/Prounckk/learnings/tree/main/exercism/rust/) 
+
+[Rust](https://github.com/Prounckk/learnings/tree/main/exercism/rust/)
+
 [My profile](https://exercism.org/profiles/Prounckk)
 
 ## Leetcode
-[My solutions](https://github.com/Prounckk/learnings/tree/main/leetcode/) 
-[My profile] (https://leetcode.com/Prounckk/)
+[My solutions](https://github.com/Prounckk/learnings/tree/main/leetcode/)
+
+[My profile](https://leetcode.com/Prounckk/)
 
 ## My site
 [eremeev.ca](https://eremeev.ca/)
