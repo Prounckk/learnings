@@ -17,5 +17,6 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 
 ## Udemy
 [My profile](https://www.udemy.com/user/sergei-eremeev/)
+
 [Data Structures + Algorithms](https://github.com/Prounckk/ZTM-DS-and-Algo-Golang)
 
