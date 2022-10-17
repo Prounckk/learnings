@@ -18,7 +18,8 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 [Data Structures + Algorithms](https://github.com/Prounckk/ZTM-DS-and-Algo-Golang)
 
 ## Learnweb3
-[My first dApp](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman) 
+[My first dApp](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/dApp) 
+[My own cryptocurrency](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/cryptocurrency)) 
 
 ## My site
 [eremeev.ca](https://eremeev.ca/)
