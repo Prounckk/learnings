@@ -1,4 +1,4 @@
-This is the collection of code exercises I'm doing. Most of the code is written in Go and Rust. I might push other languages in the future.
+This is the collection of code exercises I'm doing. Most of the code is written in Go and Rust. I might push other languages in the future, like solidity.
 
 ## Exercism
 [Golang](https://github.com/Prounckk/learnings/tree/main/exercism/go/) 
@@ -12,11 +12,13 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 
 [My profile](https://leetcode.com/Prounckk/)
 
-## My site
-[eremeev.ca](https://eremeev.ca/)
-
 ## Udemy
 [My profile](https://www.udemy.com/user/sergei-eremeev/)
 
 [Data Structures + Algorithms](https://github.com/Prounckk/ZTM-DS-and-Algo-Golang)
 
+## Learnweb3
+[My first dApp](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman) 
+
+## My site
+[eremeev.ca](https://eremeev.ca/)
