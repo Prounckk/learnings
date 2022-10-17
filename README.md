@@ -15,7 +15,8 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 
 ## Learnweb3
 [My first dApp](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/dApp)  
-[My own cryptocurrency](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/cryptocurrency)
+[My own cryptocurrency](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/cryptocurrency)  
+[My own NFT](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/NFT-Tutorial)
 
 ## My site
 [eremeev.ca](https://eremeev.ca/)
