@@ -12,7 +12,7 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 ## Udemy
 [My profile](https://www.udemy.com/user/sergei-eremeev/)  
 [Data Structures + Algorithms](https://github.com/Prounckk/ZTM-DS-and-Algo-Golang)
-
+[CKAD](https://github.com/Prounckk/learnings/tree/main/udemy/ckad)
 ## Learnweb3
 [My first dApp](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/dApp)  
 [My own cryptocurrency](https://github.com/Prounckk/learnings/tree/main/learnweb3.io/Freshman/cryptocurrency)  
