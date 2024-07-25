@@ -15,3 +15,6 @@
 
 # exercism specific files
 **/.exercism/
+
+# IntelliJ IDEA files
+.idea/
