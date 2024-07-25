@@ -2,7 +2,7 @@ This is the collection of code exercises I'm doing. Most of the code is written 
 
 ## Exercism
 [Golang](https://github.com/Prounckk/learnings/tree/main/exercism/go/)  
-[Rust](https://github.com/Prounckk/learnings/tree/main/exercism/rust/)
+[Rust](https://github.com/Prounckk/learnings/tree/main/exercism/rust/)  
 [Zig](https://github.com/Prounckk/learnings/tree/main/exercism/ziq/)  
 [My profile](https://exercism.org/profiles/Prounckk)
 
